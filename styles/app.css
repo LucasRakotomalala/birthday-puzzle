@@ -6,7 +6,7 @@ body {
   background-color: #f8f9fa;
 }
 
-header {
+.header {
   background-color: var(--bs-primary);
   color: white;
 }
