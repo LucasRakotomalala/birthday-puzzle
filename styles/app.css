@@ -1,0 +1,12 @@
+:root {
+  --bs-primary: #ff69b4;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+header {
+  background-color: var(--bs-primary);
+  color: white;
+}
