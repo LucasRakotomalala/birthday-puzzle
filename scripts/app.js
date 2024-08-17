@@ -8,7 +8,7 @@ const game = new Puzzle({
   tileSize: 120,
   columns: 3,
   rows: 4,
-  difficulty: Number(difficulty) || 1,
+  difficulty: Number(difficulty) || 2,
   scale: 0.994,
   image: {
     url: './images/puzzle.jpg',

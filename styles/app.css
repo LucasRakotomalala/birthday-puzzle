@@ -1,12 +1,8 @@
 :root {
-  --bs-primary: #ff69b4;
-}
-
-body {
-  background-color: #f8f9fa;
+  --bs-primary: #FF69B4;
+  --bs-body-color: #FFFFFF;
 }
 
 .header {
   background-color: var(--bs-primary);
-  color: white;
 }
